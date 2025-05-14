@@ -3,4 +3,3 @@ numpy
 Pillow
 tensorflow
 fpdf
-'remove invalid package' rdf
