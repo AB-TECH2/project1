@@ -3,3 +3,4 @@ numpy
 Pillow
 tflite-runtime
 fpdf
+'remove invalid package' rdf
